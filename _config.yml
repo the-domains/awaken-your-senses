@@ -1,6 +1,6 @@
 name: Awaken Your Senses
 favicon: null
-layout_spectrum: 0.87084
+layout_spectrum: 0.99872
 typography_spectrum: 0.9499303172342479
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#a7c48c'
     - '#e9b67d'
     - '#6c965d'
-  brandStrength: 1
+  brandStrength: 0.75
   lightness: 0.3146030504722148
-  saturation: 0.5
-  rhythmicContrast: 0.012763489503413439
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
